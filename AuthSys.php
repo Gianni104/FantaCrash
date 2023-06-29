@@ -1,11 +1,11 @@
 <?php
 
     function RulePage(){
-        header("Location: http://127.0.0.1/FantaCrash/BackUPFlip.html");
+        header("Location: http://gdp.kozow.com/FantaCrash/BackUPFlip.html");
     }
 
     function AccessPage(){
-        header("Location: http://127.0.0.1/FantaCrash/accesso.html");
+        header("Location: http://gdp.kozow.com/FantaCrash/accesso.html");
     }
 
     $Ballerini_L = [
