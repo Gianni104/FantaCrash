@@ -5,7 +5,7 @@
     }
 
     function AccessPage(){
-        header("Location: http://gdp.kozow.com/FantaCrash/accesso.html");
+        header("Location: http://gdp.kozow.com/FantaCrash");
     }
 
     $Ballerini_L = [
